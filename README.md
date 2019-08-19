@@ -15,7 +15,7 @@ Ziel: Anhand eigens erstellter Webseite sollen die bei smartive im Einsatz stehe
 
 #### Woche 1 — Setup
 
-**Tag 1 - 2:** Arbeitsplatz einrichten (Tools, etc.), Administratives (Harvest, Tools, etc., siehe dazu Checkliste Eintritt Mitarbeiter)
+**Tag 1 - 2:** Arbeitsplatz einrichten (Tools, etc.), Administratives (Harvest, Tools, etc., siehe dazu [Checkliste Eintritt Mitarbeiter (internal)](https://smartive.atlassian.net/wiki/spaces/SMARTIVE/pages/12582915/Checkliste+Eintritt+Mitarbeiter))
 
 **Tag 3 - 5:** Frontend Bootcamp, pro Tag 2x 30min mit Mitarbeiter für Fragen: https://microsoft.github.io/frontend-bootcamp/
 
