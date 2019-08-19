@@ -8,7 +8,7 @@
 
 ### Interne Ausbildung
 
-Ziel: Anhand eigens erstellter Webseite sollen die bei smartive im Einsatz stehender
+Ziel: Anhand einer eigens erstellten Webseite sollen die bei smartive im Einsatz stehenden Technologien, Frameworks und Projektmethoden erlernt werden.
 
 **Vor Start Praktikum:** Verantwortliche Person definieren, einplanen, Termine setzen (Fragerunden im Kalender)
 
